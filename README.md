@@ -1,2 +1,1 @@
-# finance-tracker
-Personal finance tracker and Expense Predictor
+# AI & ML based Restock Predictor
